@@ -1,0 +1,44 @@
+﻿<h1>Friends</h1>
+
+<p *ngIf="!friends"><em>{{message}}</em></p>
+<p *ngIf="friends"><em>Toekn = {{token}}</em></p>
+<p *ngIf="!friends"><button (click)="login()">Authentication</button></p>
+
+<table class='table' *ngIf="friends">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let friend of friends">
+            <td>{{ friend.id }}</td>
+            <td>{{ friend.name }}</td>
+            <td><button (click)="locateFriend(friend.id)">Locate friends</button></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class='table' *ngIf="friendsLocated">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Distance</th>
+            <th>Path</th>
+            <th>Coordinates</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let friend of friendsLocated">
+            <td>{{ friend.id }}</td>
+            <td>{{ friend.name }}</td>
+            <td>{{ friend.distance }}</td>
+            <td>{{ friend.path }}</td>
+            <td>{{ friend.coordinates }}</td>
+
+        </tr>
+    </tbody>
+</table>

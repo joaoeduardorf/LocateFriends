@@ -1,0 +1,18 @@
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\bin\Debug\netcoreapp2.0\Locate.Domain.deps.json
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\bin\Debug\netcoreapp2.0\Locate.Domain.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\bin\Debug\netcoreapp2.0\Locate.Domain.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\obj\Debug\netcoreapp2.0\Locate.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\obj\Debug\netcoreapp2.0\Locate.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\obj\Debug\netcoreapp2.0\Locate.Domain.AssemblyInfoInputs.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\obj\Debug\netcoreapp2.0\Locate.Domain.AssemblyInfo.cs
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\obj\Debug\netcoreapp2.0\Locate.Domain.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\obj\Debug\netcoreapp2.0\Locate.Domain.pdb
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\bin\Debug\netcoreapp2.0\Locate.Domain.deps.json
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\bin\Debug\netcoreapp2.0\Locate.Domain.dll
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\bin\Debug\netcoreapp2.0\Locate.Domain.pdb
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\obj\Debug\netcoreapp2.0\Locate.Domain.csprojResolveAssemblyReference.cache
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\obj\Debug\netcoreapp2.0\Locate.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\obj\Debug\netcoreapp2.0\Locate.Domain.AssemblyInfoInputs.cache
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\obj\Debug\netcoreapp2.0\Locate.Domain.AssemblyInfo.cs
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\obj\Debug\netcoreapp2.0\Locate.Domain.dll
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\Locate.Domain\obj\Debug\netcoreapp2.0\Locate.Domain.pdb

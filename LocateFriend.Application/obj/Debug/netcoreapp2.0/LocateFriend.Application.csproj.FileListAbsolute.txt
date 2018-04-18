@@ -1,0 +1,24 @@
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\bin\Debug\netcoreapp2.0\LocateFriend.Application.deps.json
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\bin\Debug\netcoreapp2.0\LocateFriend.Application.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\bin\Debug\netcoreapp2.0\LocateFriend.Application.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\bin\Debug\netcoreapp2.0\Locate.Domain.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\bin\Debug\netcoreapp2.0\Locate.Domain.pdb
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.csprojResolveAssemblyReference.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.csproj.CoreCompileInputs.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.AssemblyInfoInputs.cache
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.AssemblyInfo.cs
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.csproj.CopyComplete
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.dll
+C:\Users\Joao Eduardo\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.pdb
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\bin\Debug\netcoreapp2.0\LocateFriend.Application.deps.json
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\bin\Debug\netcoreapp2.0\LocateFriend.Application.dll
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\bin\Debug\netcoreapp2.0\LocateFriend.Application.pdb
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\bin\Debug\netcoreapp2.0\Locate.Domain.dll
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\bin\Debug\netcoreapp2.0\Locate.Domain.pdb
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.csprojResolveAssemblyReference.cache
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.csproj.CoreCompileInputs.cache
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.AssemblyInfoInputs.cache
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.AssemblyInfo.cs
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.csproj.CopyComplete
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.dll
+C:\Users\jef\Documents\Visual Studio 2017\Projects\LocateFriendSolutions\LocateFriend.Application\obj\Debug\netcoreapp2.0\LocateFriend.Application.pdb
